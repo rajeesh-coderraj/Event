@@ -1,2 +1,2 @@
 # Event
-Adding new event using PHP and mango-db .The project includes operations to ADD,UPDATE and delete the events .The project was an assignment test
+Project was created for Adding new events.The system wasdesigned using PHP,html for buliding the elements and design.For communicating the server I likly to prefer PHP and database as mango-db .The project includes operations such as ADD,UPDATE and delete the events .The project was an assignment test
